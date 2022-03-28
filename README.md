@@ -4,6 +4,4 @@
 
 ## Run Test
  
- ```
-    npm test
-                
+ ```npm test
